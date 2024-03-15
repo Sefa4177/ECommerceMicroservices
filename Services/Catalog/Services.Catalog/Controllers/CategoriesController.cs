@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Services.Catalog.Dtos;
-using Services.Catalog.Models;
-using Services.Catalog.Services;
+using ECommerce.Services.Catalog.Dtos;
+using ECommerce.Services.Catalog.Models;
+using ECommerce.Services.Catalog.Services;
 using SharedLib.ControllerBases;
 
-namespace Services.Catalog.Controllers
+namespace ECommerce.Services.Catalog.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

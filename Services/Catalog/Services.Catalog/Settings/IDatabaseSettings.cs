@@ -1,4 +1,4 @@
-﻿namespace Services.Catalog.Settings
+﻿namespace ECommerce.Services.Catalog.Settings
 {
     public interface IDatabaseSettings
     {

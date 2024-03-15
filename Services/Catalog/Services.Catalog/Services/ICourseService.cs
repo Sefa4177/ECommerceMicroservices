@@ -1,7 +1,7 @@
-﻿using Services.Catalog.Dtos;
+﻿using ECommerce.Services.Catalog.Dtos;
 using SharedLib.Dtos;
 
-namespace Services.Catalog.Services
+namespace ECommerce.Services.Catalog.Services
 {
     public interface ICourseService
     {

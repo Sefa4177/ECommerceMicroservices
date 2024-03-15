@@ -1,8 +1,8 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
 using MongoDB.Bson;
-using Services.Catalog.Models;
+using ECommerce.Services.Catalog.Models;
 
-namespace Services.Catalog.Dtos
+namespace ECommerce.Services.Catalog.Dtos
 {
     public class CourseDto
     {

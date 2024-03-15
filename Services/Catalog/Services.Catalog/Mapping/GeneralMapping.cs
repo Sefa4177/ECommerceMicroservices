@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using Services.Catalog.Dtos;
-using Services.Catalog.Models;
+using ECommerce.Services.Catalog.Dtos;
+using ECommerce.Services.Catalog.Models;
 
-namespace Services.Catalog.Mapping
+namespace ECommerce.Services.Catalog.Mapping
 {
     public class GeneralMapping:Profile
     {

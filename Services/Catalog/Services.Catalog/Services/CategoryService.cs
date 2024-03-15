@@ -1,11 +1,11 @@
 ﻿using AutoMapper;
 using MongoDB.Driver;
-using Services.Catalog.Dtos;
-using Services.Catalog.Models;
-using Services.Catalog.Settings;
+using ECommerce.Services.Catalog.Dtos;
+using ECommerce.Services.Catalog.Models;
+using ECommerce.Services.Catalog.Settings;
 using SharedLib.Dtos;
 
-namespace Services.Catalog.Services
+namespace ECommerce.Services.Catalog.Services
 {
     public class CategoryService: ICategoryService
     {

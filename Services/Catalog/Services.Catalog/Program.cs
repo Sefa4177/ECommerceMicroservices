@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Options;
-using Services.Catalog.Services;
-using Services.Catalog.Settings;
+using ECommerce.Services.Catalog.Services;
+using ECommerce.Services.Catalog.Settings;
 
 var builder = WebApplication.CreateBuilder(args);
 

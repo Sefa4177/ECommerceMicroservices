@@ -1,8 +1,8 @@
-﻿using Services.Catalog.Dtos;
-using Services.Catalog.Models;
+﻿using ECommerce.Services.Catalog.Dtos;
+using ECommerce.Services.Catalog.Models;
 using SharedLib.Dtos;
 
-namespace Services.Catalog.Services
+namespace ECommerce.Services.Catalog.Services
 {
     public interface ICategoryService
     {

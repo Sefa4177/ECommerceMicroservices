@@ -1,4 +1,4 @@
-﻿namespace Services.Catalog.Dtos
+﻿namespace ECommerce.Services.Catalog.Dtos
 {
     public class CategoryDto
     {
