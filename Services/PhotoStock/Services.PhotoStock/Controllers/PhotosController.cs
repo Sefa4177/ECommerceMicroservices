@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Services.PhotoStock.Dtos;
+using ECommerce.Services.PhotoStock.Dtos;
 using SharedLib.ControllerBases;
 using SharedLib.Dtos;
 
-namespace Services.PhotoStock.Controllers
+namespace ECommerce.Services.PhotoStock.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

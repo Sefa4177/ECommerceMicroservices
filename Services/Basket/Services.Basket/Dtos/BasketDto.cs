@@ -1,4 +1,4 @@
-﻿namespace Services.Basket.Dtos
+﻿namespace ECommerce.Services.Basket.Dtos
 {
     public class BasketDto
     {

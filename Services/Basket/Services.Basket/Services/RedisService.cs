@@ -1,6 +1,6 @@
 ﻿using StackExchange.Redis;
 
-namespace Services.Basket.Services
+namespace ECommerce.Services.Basket.Services
 {
     public class RedisService
     {

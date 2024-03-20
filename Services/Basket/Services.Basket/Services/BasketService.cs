@@ -1,8 +1,8 @@
-﻿using Services.Basket.Dtos;
+﻿using ECommerce.Services.Basket.Dtos;
 using SharedLib.Dtos;
 using System.Text.Json;
 
-namespace Services.Basket.Services
+namespace ECommerce.Services.Basket.Services
 {
     public class BasketService : IBasketService
     {

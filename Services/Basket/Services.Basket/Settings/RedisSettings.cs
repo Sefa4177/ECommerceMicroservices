@@ -1,4 +1,4 @@
-﻿namespace Services.Basket.Settings
+﻿namespace ECommerce.Services.Basket.Settings
 {
     public class RedisSettings
     {

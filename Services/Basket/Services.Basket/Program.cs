@@ -3,8 +3,8 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.JsonWebTokens;
-using Services.Basket.Services;
-using Services.Basket.Settings;
+using ECommerce.Services.Basket.Services;
+using ECommerce.Services.Basket.Settings;
 using SharedLib.Services;
 using System.IdentityModel.Tokens.Jwt;
 

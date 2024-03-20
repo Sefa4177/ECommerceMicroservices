@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Services.Basket.Dtos;
-using Services.Basket.Services;
+using ECommerce.Services.Basket.Dtos;
+using ECommerce.Services.Basket.Services;
 using SharedLib.ControllerBases;
 using SharedLib.Services;
 
-namespace Services.Basket.Controllers
+namespace ECommerce.Services.Basket.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

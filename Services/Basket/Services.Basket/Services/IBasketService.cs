@@ -1,7 +1,7 @@
-﻿using Services.Basket.Dtos;
+﻿using ECommerce.Services.Basket.Dtos;
 using SharedLib.Dtos;
 
-namespace Services.Basket.Services
+namespace ECommerce.Services.Basket.Services
 {
     public interface IBasketService
     {

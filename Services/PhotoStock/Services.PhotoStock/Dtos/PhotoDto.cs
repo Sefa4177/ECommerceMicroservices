@@ -1,4 +1,4 @@
-﻿ namespace Services.PhotoStock.Dtos
+﻿ namespace ECommerce.Services.PhotoStock.Dtos
 {
     public class PhotoDto
     {
