@@ -1,0 +1,6 @@
+@ECommerce.Services.Payment_HostAddress = http://localhost:5124
+
+GET {{ECommerce.Services.Payment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
